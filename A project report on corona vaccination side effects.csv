@@ -1,0 +1,221 @@
+Gender,Age,Education ,Occupation,Doses Of The Covid-19 Vaccine ,Which Covid-19 Vaccine,Is The Vaccine Paid Or Free,Feeling Lazy,Lost Fear About Covid-19,Feeling Stress & Anxiety,Hair Fall,Decreasing Visualization,Fear Of Heart Attacks,Overweight,Body Pains,Feeling Increase In Immunity,Confident About The Covid-19,Sleepless,Low & High Bp,Chills And Diarrhea,Prevented Our Future Diseases,Get Back To Our Normal Life,Feeling Hungry,Decrease Mortality Rate,Effects On Reproductive Health, Resilience,Feel I Am A Part In Covid 19 Warrior,Social Responsibility ,Mandatory In Organization
+Female,30-39,Other,Employed full-time,1 dose,Covishield,Paid,1,4,2,4,4,3,1,5,4,1,3,1,4,1,4,1,4,2,4,5,1,2
+Female,Above 60 years,High School,Employed full-time,1 dose,Covaxin,Free,3,4,2,5,4,1,5,4,5,4,2,1,3,5,1,4,5,1,2,1,3,5
+Female,50-59,Post Graduate,Employed full-time,1 dose,Covishield,Free,5,1,5,1,1,1,5,1,1,2,4,3,2,5,4,2,2,5,4,1,2,4
+Female,50-59,Under Graduate,Retired,3 doses (including booster),Covaxin,Free,5,5,2,5,3,5,4,4,4,2,1,5,1,4,3,1,4,5,4,5,1,4
+Female,40-49,No Formal Education,Unemployed,1 dose,Covishield,Free,3,2,4,1,4,3,1,1,3,1,4,3,2,3,1,1,4,3,3,4,5,2
+Female,30-39,Under Graduate,Employed full-time,1 dose,Covishield,Free,2,3,5,3,5,5,1,4,3,3,1,3,5,4,2,1,2,3,5,1,4,2
+Female,40-49,Other,Housewives,1 dose,Covaxin,Paid,1,1,3,5,1,1,2,4,1,3,4,2,1,5,4,5,3,3,2,4,2,1
+Female,50-59,No Formal Education,Housewives,2 doses,Covaxin,Paid,1,5,2,3,2,3,1,3,4,5,5,4,2,3,3,4,1,5,2,4,5,1
+Female,Above 60 years,No Formal Education,Housewives,1 dose,Covishield,Paid,4,2,3,2,5,1,2,3,2,3,3,3,5,1,4,3,1,4,3,4,3,2
+Female,Above 60 years,No Formal Education,Unemployed,2 doses,Covishield,Paid,5,1,3,5,4,4,2,2,1,2,1,3,1,1,1,1,1,4,2,2,3,4
+Female,30-39,Post Graduate,Employed full-time,1 dose,Covaxin,Paid,4,3,1,4,5,4,3,4,3,2,3,1,5,3,1,3,1,1,1,3,1,3
+Female,18-29,High School,Housewives,1 dose,Covishield,Paid,4,2,3,5,1,2,4,2,1,1,1,3,3,5,5,1,1,5,1,5,1,2
+Female,18-29,High School,Self-employed,1 dose,Covaxin,Free,1,5,3,5,4,3,1,4,3,1,3,1,1,3,5,1,3,1,2,2,3,5
+Female,40-49,Other,Unemployed,1 dose,Covishield,Paid,4,3,3,5,4,5,4,2,2,5,5,2,4,1,1,3,5,4,4,1,5,5
+Female,Above 60 years,Post Graduate,Housewives,3 doses (including booster),Covishield,Paid,1,5,4,1,4,2,1,3,4,4,2,4,4,5,3,2,4,2,4,5,3,1
+Female,30-39,No Formal Education,Retired,2 doses,Covishield,Free,2,4,3,5,5,2,2,2,3,4,2,4,2,5,5,1,3,2,1,3,3,4
+Female,30-39,Post Graduate,Unemployed,1 dose,Covishield,Free,1,1,3,1,4,3,1,5,5,2,2,1,4,4,2,2,2,2,1,2,1,4
+Female,18-29,Under Graduate,Self-employed,2 doses,Covaxin,Free,2,4,2,1,5,3,3,3,5,3,2,4,3,2,1,4,1,2,1,3,4,2
+Female,50-59,No Formal Education,Self-employed,3 doses (including booster),Covaxin,Paid,3,2,5,1,2,4,5,4,3,3,1,1,3,1,4,5,5,5,3,3,4,2
+Female,40-49,Post Graduate,Employed full-time,1 dose,Covishield,Paid,4,2,3,3,2,3,4,1,2,5,3,2,3,5,5,3,3,4,5,2,2,5
+Female,18-29,Under Graduate,Unemployed,2 doses,Covaxin,Free,1,4,1,2,4,5,4,5,5,1,3,2,2,5,5,3,1,3,1,1,5,1
+Female,50-59,Post Graduate,Employed full-time,2 doses,Covaxin,Free,5,3,1,4,2,4,1,5,1,1,5,3,4,2,1,3,3,5,2,2,5,5
+Female,40-49,Post Graduate,Self-employed,3 doses (including booster),Covaxin,Free,4,2,2,5,2,4,3,5,3,4,5,3,3,3,3,1,4,2,2,5,2,4
+Female,50-59,Under Graduate,Retired,2 doses,Covaxin,Free,3,4,3,2,2,3,3,2,5,2,5,5,4,4,2,2,3,2,1,1,2,4
+Female,30-39,Under Graduate,Self-employed,3 doses (including booster),Covishield,Paid,5,1,5,3,1,3,1,2,3,3,3,2,2,4,5,4,2,5,4,4,4,5
+Female,50-59,No Formal Education,Employed full-time,1 dose,Covaxin,Paid,3,1,5,2,4,2,1,2,1,5,2,1,4,5,5,5,5,5,5,4,4,1
+Female,18-29,High School,Self-employed,3 doses (including booster),Covaxin,Paid,1,3,3,1,5,4,1,4,3,3,4,5,3,4,4,4,3,2,2,3,3,5
+Female,30-39,No Formal Education,Employed full-time,1 dose,Covishield,Paid,5,5,3,2,2,4,1,3,2,4,3,2,1,4,2,5,2,1,4,5,1,4
+Female,50-59,High School,Retired,3 doses (including booster),Covishield,Free,1,5,4,1,1,2,4,1,1,5,4,4,4,3,2,4,1,4,1,2,2,3
+Female,18-29,Post Graduate,Self-employed,3 doses (including booster),Covishield,Free,4,5,1,3,1,2,4,5,3,3,4,5,5,3,4,4,5,5,4,5,2,1
+Female,Above 60 years,Post Graduate,Self-employed,1 dose,Covishield,Free,3,1,1,1,3,1,4,5,3,3,1,1,1,1,1,1,3,5,2,4,4,1
+Female,18-29,No Formal Education,Housewives,1 dose,Covaxin,Paid,1,1,4,3,4,4,2,5,2,1,3,3,5,4,5,3,1,1,4,4,3,1
+Female,50-59,High School,Retired,1 dose,Covishield,Paid,5,3,1,4,3,5,5,3,5,1,5,2,5,1,5,3,2,5,3,4,4,3
+Female,30-39,Post Graduate,Employed full-time,2 doses,Covishield,Paid,5,3,1,1,2,3,3,2,4,3,2,2,3,1,3,3,3,5,1,3,4,4
+Female,50-59,No Formal Education,Unemployed,3 doses (including booster),Covaxin,Paid,4,4,1,3,4,2,4,5,2,4,1,3,1,3,1,1,2,4,4,1,5,5
+Female,30-39,Other,Retired,3 doses (including booster),Covaxin,Free,3,1,5,1,3,5,3,5,2,1,4,2,1,5,4,5,2,1,1,4,2,5
+Female,50-59,No Formal Education,Retired,1 dose,Covaxin,Paid,4,3,2,5,2,1,3,3,3,4,3,4,4,1,3,4,1,3,3,2,4,5
+Female,18-29,Under Graduate,Employed full-time,1 dose,Covaxin,Free,3,1,4,1,1,5,3,4,3,5,5,4,4,2,1,2,3,4,1,3,5,1
+Female,40-49,Under Graduate,Retired,1 dose,Covishield,Free,4,4,1,5,3,2,4,1,2,2,4,1,2,4,5,5,5,4,1,4,3,4
+Female,40-49,No Formal Education,Retired,3 doses (including booster),Covaxin,Free,4,1,4,3,3,1,1,5,3,4,4,5,1,3,1,1,1,3,3,4,1,3
+Female,50-59,Under Graduate,Housewives,2 doses,Covishield,Paid,5,5,3,2,3,4,3,5,5,2,3,2,5,3,4,1,4,4,3,1,1,3
+Female,18-29,Other,Employed full-time,3 doses (including booster),Covishield,Paid,3,1,3,2,2,4,2,5,4,5,1,5,3,1,4,5,4,5,2,1,3,2
+Female,18-29,Post Graduate,Unemployed,1 dose,Covishield,Free,1,3,5,2,2,4,1,1,5,3,3,3,4,3,2,1,5,2,3,5,4,5
+Female,Above 60 years,No Formal Education,Employed full-time,1 dose,Covishield,Free,3,2,3,3,5,3,3,3,2,5,5,4,4,4,3,1,1,4,5,4,4,5
+Female,50-59,High School,Unemployed,1 dose,Covaxin,Paid,4,2,3,1,1,3,1,4,4,2,5,1,2,5,2,3,2,1,3,4,3,5
+Female,30-39,Other,Housewives,2 doses,Covaxin,Free,3,3,4,2,2,4,2,1,1,5,2,4,4,5,4,4,5,3,5,1,5,1
+Female,Above 60 years,Under Graduate,Retired,1 dose,Covishield,Paid,2,2,5,3,3,3,3,2,5,1,4,3,3,4,3,5,3,3,2,5,4,1
+Female,50-59,No Formal Education,Self-employed,3 doses (including booster),Covaxin,Paid,1,5,5,3,4,1,4,1,5,5,5,3,4,2,5,5,3,3,1,5,1,3
+Female,40-49,No Formal Education,Housewives,3 doses (including booster),Covaxin,Free,5,1,1,5,5,2,3,3,3,5,5,1,4,4,1,2,3,3,3,2,5,2
+Female,18-29,Under Graduate,Employed full-time,2 doses,Covaxin,Free,1,1,1,1,1,4,3,2,3,5,3,2,2,5,5,5,4,5,4,3,3,1
+Female,30-39,Post Graduate,Self-employed,1 dose,Covaxin,Free,3,2,3,5,1,2,1,1,4,5,4,5,5,2,4,1,5,5,4,2,1,2
+Female,Above 60 years,Other,Housewives,2 doses,Covaxin,Paid,2,4,4,4,4,5,1,1,5,3,5,1,5,5,2,5,3,1,5,3,3,3
+Female,18-29,No Formal Education,Employed full-time,1 dose,Covishield,Free,3,1,4,4,1,3,2,2,4,2,1,4,1,2,4,4,5,1,1,1,2,5
+Female,30-39,Post Graduate,Self-employed,1 dose,Covaxin,Free,2,5,5,3,4,5,5,2,4,1,1,4,3,1,2,3,4,1,4,3,5,5
+Female,40-49,Post Graduate,Housewives,3 doses (including booster),Covishield,Paid,1,3,4,1,1,2,3,5,3,2,3,5,5,2,2,1,1,4,4,2,4,5
+Female,Above 60 years,No Formal Education,Unemployed,1 dose,Covishield,Free,4,2,4,5,2,1,3,2,3,2,3,5,2,4,1,2,4,5,5,1,3,3
+Female,18-29,Under Graduate,Self-employed,3 doses (including booster),Covaxin,Free,1,2,5,4,3,2,3,5,4,3,2,3,3,2,4,2,1,3,5,4,4,5
+Female,40-49,Other,Retired,2 doses,Covaxin,Free,1,5,5,5,2,2,4,2,1,1,5,2,4,2,4,3,5,2,4,5,2,2
+Female,40-49,High School,Retired,3 doses (including booster),Covaxin,Paid,5,2,4,4,1,2,1,4,2,5,3,4,3,3,2,5,1,5,3,3,1,5
+Female,40-49,High School,Retired,3 doses (including booster),Covishield,Free,4,3,3,2,4,4,3,3,3,1,3,2,1,3,4,5,5,4,2,1,1,2
+Female,30-39,No Formal Education,Self-employed,1 dose,Covaxin,Paid,5,3,3,1,5,1,1,4,3,4,2,3,4,1,1,1,1,3,5,1,3,3
+Female,30-39,Under Graduate,Self-employed,2 doses,Covishield,Free,5,1,4,2,5,4,3,2,1,3,1,1,4,1,4,3,1,4,2,1,5,2
+Female,40-49,Other,Housewives,1 dose,Covaxin,Free,3,2,5,1,1,5,2,4,3,4,5,2,3,3,3,4,5,5,3,4,4,4
+Female,30-39,High School,Housewives,1 dose,Covaxin,Paid,1,2,5,1,5,5,4,5,1,2,4,3,1,5,2,5,1,3,5,1,1,3
+Female,40-49,High School,Self-employed,2 doses,Covishield,Free,3,1,2,1,3,4,1,1,3,2,2,2,5,2,5,4,5,3,5,5,3,4
+Female,30-39,Under Graduate,Self-employed,2 doses,Covaxin,Paid,2,4,4,3,4,1,4,2,2,4,1,1,1,3,5,4,2,2,2,1,1,5
+Female,18-29,Under Graduate,Housewives,2 doses,Covaxin,Paid,1,1,5,1,3,2,2,2,1,2,5,1,3,4,5,4,1,4,4,2,4,5
+Female,Above 60 years,High School,Retired,1 dose,Covishield,Free,3,1,5,3,3,3,5,4,5,4,5,4,2,1,1,5,2,5,5,3,4,3
+Female,18-29,High School,Employed full-time,1 dose,Covishield,Paid,5,2,4,4,3,3,4,5,3,3,4,2,1,1,2,2,1,3,1,2,4,4
+Female,18-29,High School,Self-employed,1 dose,Covaxin,Paid,1,5,5,1,3,4,5,5,1,2,5,2,5,5,4,3,3,2,4,3,1,1
+Female,30-39,Other,Retired,3 doses (including booster),Covishield,Paid,3,4,3,2,5,1,3,5,2,4,3,1,1,2,5,3,5,2,4,4,2,4
+Female,40-49,Other,Housewives,1 dose,Covishield,Paid,4,5,3,2,1,5,4,1,4,4,4,3,2,2,1,1,1,2,2,3,3,3
+Female,30-39,Under Graduate,Housewives,1 dose,Covaxin,Paid,3,3,5,5,4,1,5,2,2,5,4,2,4,1,2,4,5,1,4,2,3,3
+Female,Above 60 years,Post Graduate,Self-employed,2 doses,Covishield,Free,3,5,3,5,2,5,3,3,4,4,1,4,1,2,2,4,3,5,3,3,1,3
+Female,30-39,No Formal Education,Housewives,2 doses,Covishield,Paid,3,4,4,4,3,1,3,5,1,2,5,3,2,5,4,3,3,3,5,1,5,2
+Female,50-59,Post Graduate,Housewives,3 doses (including booster),Covishield,Paid,4,3,5,4,1,1,2,1,4,4,2,5,5,5,1,5,1,1,2,2,3,5
+Female,30-39,Other,Housewives,1 dose,Covaxin,Free,1,3,2,2,1,5,5,2,4,3,2,2,1,3,5,2,5,3,5,3,3,4
+Female,40-49,Post Graduate,Self-employed,1 dose,Covaxin,Free,5,4,2,2,5,2,3,5,5,5,4,2,5,3,5,4,5,3,3,2,5,4
+Female,40-49,Under Graduate,Self-employed,1 dose,Covaxin,Free,1,5,3,4,4,2,2,4,3,2,5,5,1,5,5,5,2,1,5,5,2,1
+Female,40-49,No Formal Education,Self-employed,1 dose,Covishield,Free,1,2,5,5,4,2,3,5,5,4,5,3,2,2,4,3,2,5,5,5,2,1
+Female,30-39,Post Graduate,Unemployed,1 dose,Covaxin,Free,1,4,1,5,5,1,1,3,1,2,3,1,5,3,5,3,4,3,1,1,4,4
+Female,50-59,High School,Unemployed,3 doses (including booster),Covaxin,Paid,5,4,1,4,3,4,2,1,3,4,1,3,1,3,2,5,2,2,1,5,3,1
+Female,50-59,Post Graduate,Retired,2 doses,Covaxin,Free,2,2,4,1,5,2,2,5,2,5,3,3,4,4,1,3,5,4,5,3,4,3
+Female,50-59,High School,Retired,2 doses,Covishield,Free,3,2,2,4,3,4,3,2,1,2,3,3,4,4,4,1,2,3,1,2,1,1
+Female,40-49,Other,Self-employed,1 dose,Covishield,Free,2,4,1,2,2,4,1,4,5,1,5,4,4,1,1,4,4,3,5,4,4,4
+Female,Above 60 years,High School,Housewives,1 dose,Covishield,Free,3,2,5,1,4,5,3,3,1,2,4,3,2,2,4,2,3,3,2,3,2,3
+Female,30-39,Under Graduate,Employed full-time,1 dose,Covaxin,Paid,2,5,3,4,1,3,2,5,4,4,3,2,4,4,4,5,2,2,2,1,4,2
+Female,40-49,Other,Unemployed,1 dose,Covaxin,Free,2,3,4,2,5,5,2,3,2,5,5,5,4,1,4,5,4,3,2,1,4,3
+Female,18-29,Under Graduate,Housewives,3 doses (including booster),Covishield,Paid,5,5,3,1,3,2,4,5,5,5,4,2,5,2,3,1,4,4,2,4,3,4
+Female,50-59,High School,Self-employed,1 dose,Covishield,Free,3,1,5,3,3,4,3,1,4,5,1,1,4,2,5,5,1,1,2,2,5,2
+Female,30-39,No Formal Education,Housewives,1 dose,Covishield,Paid,3,2,1,3,4,2,5,2,5,1,4,5,5,4,5,1,3,5,4,4,2,3
+Female,50-59,Post Graduate,Employed full-time,1 dose,Covaxin,Free,3,4,4,2,1,2,4,3,4,2,4,1,4,4,4,3,3,3,3,1,4,3
+Female,18-29,Other,Retired,2 doses,Covishield,Free,3,5,1,3,5,4,2,4,3,4,2,5,5,2,2,3,5,2,4,4,5,5
+Female,18-29,Other,Retired,1 dose,Covishield,Paid,1,1,3,3,5,4,2,1,1,1,2,5,1,5,4,3,4,1,3,1,3,4
+Female,Above 60 years,High School,Employed full-time,1 dose,Covishield,Free,2,1,4,1,3,5,5,4,1,1,4,3,3,3,3,1,5,4,4,5,3,2
+Female,40-49,High School,Self-employed,2 doses,Covishield,Free,5,3,2,5,5,4,3,5,5,3,2,2,5,5,2,1,4,4,1,1,3,2
+Female,40-49,Post Graduate,Housewives,1 dose,Covishield,Free,4,4,1,2,2,5,5,2,4,1,1,2,4,5,1,3,5,1,3,5,4,2
+Female,18-29,High School,Retired,3 doses (including booster),Covaxin,Free,4,5,3,2,5,4,5,5,2,5,3,4,1,3,3,4,3,3,4,1,4,5
+Female,40-49,Post Graduate,Retired,3 doses (including booster),Covaxin,Paid,2,4,4,4,3,4,3,1,3,2,2,5,2,1,2,3,1,3,4,3,4,2
+Female,30-39,No Formal Education,Employed full-time,3 doses (including booster),Covaxin,Free,3,2,3,1,1,2,3,1,3,5,5,1,4,2,5,1,2,5,1,4,2,5
+Female,50-59,High School,Housewives,2 doses,Covaxin,Paid,5,2,1,2,3,5,3,3,2,5,1,4,1,3,4,4,2,3,3,1,5,1
+Female,Above 60 years,No Formal Education,Employed full-time,1 dose,Covishield,Paid,4,2,1,3,5,3,3,4,2,4,2,1,1,5,1,5,5,4,4,4,3,3
+Female,40-49,Post Graduate,Housewives,1 dose,Covishield,Paid,3,5,5,2,3,4,4,5,5,4,2,4,3,2,3,5,2,5,3,2,3,1
+Female,18-29,No Formal Education,Housewives,3 doses (including booster),Covaxin,Free,3,1,4,1,2,4,3,4,4,3,2,1,4,4,5,4,1,1,5,2,5,2
+Male,30-39,Under Graduate,Self-employed,1 dose,Covishield,Paid,4,1,4,5,2,3,2,1,5,2,1,2,4,2,4,1,5,3,3,2,5,4
+Male,18-29,Post Graduate,Unemployed,1 dose,Covaxin,Free,5,4,4,5,5,5,4,2,1,2,2,1,2,5,3,4,2,4,1,5,3,3
+Male,18-29,Under Graduate,Self-employed,1 dose,Covishield,Paid,4,4,1,1,5,4,5,4,4,5,1,3,4,5,5,3,1,1,5,2,2,2
+Male,50-59,Other,Retired,1 dose,Covishield,Free,3,4,1,5,2,1,2,2,5,2,4,1,1,4,2,2,4,4,2,3,2,1
+Male,50-59,High School,Retired,1 dose,Covishield,Free,2,2,5,5,5,3,1,3,3,4,2,1,4,1,4,2,4,3,1,3,5,4
+Male,50-59,Under Graduate,Housewives,1 dose,Covaxin,Free,4,5,4,3,1,3,4,5,2,1,1,4,5,5,4,1,4,3,4,2,1,4
+Male,50-59,No Formal Education,Unemployed,1 dose,Covishield,Free,5,4,3,5,4,2,4,1,4,5,4,3,1,4,4,1,3,1,4,3,4,4
+Male,50-59,Other,Housewives,1 dose,Covishield,Paid,2,3,5,1,2,4,3,1,2,5,1,4,2,2,3,1,5,2,2,4,4,4
+Male,40-49,Other,Self-employed,3 doses (including booster),Covaxin,Paid,4,3,2,1,4,3,4,4,4,3,1,3,2,5,1,2,1,5,4,3,2,3
+Male,50-59,Under Graduate,Self-employed,2 doses,Covaxin,Free,2,2,3,1,5,3,1,1,3,1,4,5,3,1,2,2,1,4,3,4,1,3
+Male,18-29,No Formal Education,Unemployed,2 doses,Covishield,Paid,2,4,1,3,5,5,4,4,3,2,3,1,2,5,4,1,4,2,4,1,1,1
+Male,40-49,Post Graduate,Unemployed,2 doses,Covaxin,Paid,1,2,2,5,4,1,2,2,1,4,3,1,5,1,3,3,4,1,2,4,1,4
+Male,18-29,Other,Unemployed,1 dose,Covaxin,Free,5,3,4,1,3,5,4,1,3,4,1,5,5,1,2,5,1,1,3,3,4,4
+Male,30-39,Under Graduate,Housewives,1 dose,Covaxin,Free,3,2,2,5,5,5,4,4,1,4,2,4,1,2,1,5,4,4,1,3,5,5
+Male,50-59,Under Graduate,Retired,2 doses,Covishield,Paid,4,5,2,2,1,4,3,4,5,1,5,3,3,1,4,1,5,1,4,3,1,3
+Male,Above 60 years,Other,Unemployed,1 dose,Covishield,Free,5,1,5,1,5,1,5,2,3,5,5,4,5,5,5,3,4,5,5,1,3,2
+Male,30-39,Under Graduate,Retired,1 dose,Covishield,Free,5,1,1,5,5,1,1,3,5,4,5,5,4,1,2,1,1,2,4,5,3,4
+Male,30-39,Post Graduate,Housewives,2 doses,Covaxin,Free,4,1,5,4,4,5,5,4,4,5,1,2,4,2,5,4,5,2,5,3,3,4
+Male,18-29,No Formal Education,Self-employed,2 doses,Covaxin,Paid,1,3,4,2,2,5,4,1,5,4,4,1,2,3,1,3,1,1,3,4,2,2
+Male,Above 60 years,High School,Unemployed,1 dose,Covishield,Free,3,4,5,2,5,4,2,3,3,2,5,4,1,2,3,4,4,3,3,1,3,3
+Male,50-59,No Formal Education,Self-employed,1 dose,Covaxin,Paid,5,2,3,3,3,3,3,2,4,2,4,3,1,3,1,4,1,1,4,4,1,3
+Male,40-49,High School,Retired,1 dose,Covaxin,Free,3,5,1,1,2,1,2,2,5,2,2,4,5,2,4,4,5,1,3,4,3,1
+Male,40-49,High School,Self-employed,3 doses (including booster),Covaxin,Paid,5,5,4,5,2,1,2,2,1,3,5,2,3,1,4,3,4,5,4,1,5,4
+Male,30-39,Other,Unemployed,2 doses,Covaxin,Free,5,4,1,3,2,1,4,3,3,5,5,1,5,5,4,5,3,2,5,4,5,1
+Male,50-59,High School,Employed full-time,1 dose,Covaxin,Free,1,2,5,3,1,1,3,2,2,1,2,3,4,3,1,3,2,5,3,5,5,2
+Male,Above 60 years,Post Graduate,Housewives,1 dose,Covaxin,Paid,3,5,1,2,1,2,5,5,5,1,4,3,4,1,2,5,3,3,4,4,1,4
+Male,50-59,Other,Self-employed,1 dose,Covishield,Free,1,1,4,1,1,1,1,3,4,5,1,5,1,5,2,5,2,5,1,3,4,2
+Male,Above 60 years,High School,Housewives,1 dose,Covishield,Free,3,3,5,4,4,3,3,2,4,1,4,3,2,2,5,2,4,2,4,1,1,4
+Male,Above 60 years,High School,Self-employed,1 dose,Covaxin,Free,1,4,3,3,3,3,1,3,5,3,2,5,3,2,4,3,4,5,2,2,3,2
+Male,30-39,Under Graduate,Employed full-time,1 dose,Covaxin,Paid,1,4,3,1,1,4,2,5,3,4,4,4,5,5,3,1,1,1,3,5,2,1
+Male,40-49,Other,Unemployed,3 doses (including booster),Covishield,Paid,4,5,3,5,4,2,3,2,4,4,2,5,5,2,5,1,5,5,1,5,3,4
+Male,Above 60 years,Under Graduate,Retired,2 doses,Covishield,Free,3,4,5,1,5,4,1,3,4,5,1,3,5,1,1,2,2,5,3,4,3,1
+Male,50-59,Under Graduate,Retired,1 dose,Covishield,Free,1,4,1,5,5,4,3,2,4,2,5,5,1,5,3,3,3,5,4,5,5,1
+Male,50-59,No Formal Education,Housewives,1 dose,Covaxin,Paid,1,4,5,2,2,4,2,5,1,2,1,4,3,2,5,5,1,3,1,3,5,5
+Male,18-29,Other,Self-employed,1 dose,Covaxin,Paid,4,4,1,5,2,2,3,3,1,3,5,4,4,4,2,1,3,3,1,3,4,1
+Male,Above 60 years,No Formal Education,Employed full-time,2 doses,Covaxin,Free,3,5,3,5,5,3,1,2,1,4,4,3,4,3,3,4,4,4,1,3,2,4
+Male,18-29,Under Graduate,Self-employed,1 dose,Covishield,Free,1,4,3,1,5,5,5,2,3,2,3,3,2,5,3,4,3,3,1,1,3,1
+Male,30-39,No Formal Education,Self-employed,3 doses (including booster),Covishield,Paid,1,4,5,2,3,4,1,5,4,3,4,2,3,4,1,4,5,5,4,3,2,1
+Male,50-59,No Formal Education,Unemployed,2 doses,Covishield,Free,3,4,5,5,2,5,4,2,2,1,4,3,5,1,5,1,5,1,2,3,4,4
+Male,Above 60 years,High School,Self-employed,3 doses (including booster),Covaxin,Free,4,3,1,2,1,5,3,4,2,2,5,4,2,2,3,4,2,5,5,5,4,2
+Male,18-29,Under Graduate,Housewives,2 doses,Covishield,Free,3,5,2,3,2,2,3,1,2,2,3,5,1,2,4,3,1,1,5,4,5,4
+Male,Above 60 years,Other,Self-employed,1 dose,Covaxin,Free,5,1,1,4,3,2,2,4,1,1,5,5,5,1,1,1,2,4,2,2,3,4
+Male,Above 60 years,High School,Housewives,3 doses (including booster),Covishield,Paid,5,2,2,2,3,2,1,4,3,2,1,4,5,5,2,2,3,4,4,4,4,3
+Male,18-29,High School,Self-employed,2 doses,Covishield,Free,3,1,3,3,5,2,1,5,4,1,5,3,1,5,3,5,1,1,2,4,2,5
+Male,Above 60 years,Post Graduate,Retired,2 doses,Covaxin,Free,4,3,1,2,3,5,5,1,3,1,4,2,2,1,4,5,5,1,3,5,4,5
+Male,50-59,Under Graduate,Employed full-time,1 dose,Covishield,Free,4,4,1,3,1,4,5,4,1,3,4,2,3,4,1,3,1,3,4,5,1,5
+Male,50-59,Other,Self-employed,1 dose,Covishield,Paid,2,3,2,1,5,3,5,2,4,3,2,3,5,5,2,3,2,4,1,5,3,2
+Male,40-49,No Formal Education,Unemployed,1 dose,Covishield,Free,5,1,1,2,3,1,1,1,3,3,1,4,1,3,4,4,4,5,2,1,1,5
+Male,40-49,High School,Housewives,1 dose,Covishield,Free,1,1,4,4,1,3,4,2,4,1,3,3,4,4,4,4,2,1,4,4,3,3
+Male,30-39,Other,Unemployed,1 dose,Covaxin,Paid,1,3,5,3,5,5,5,1,3,5,1,1,4,5,4,4,1,1,3,3,1,3
+Male,40-49,No Formal Education,Employed full-time,3 doses (including booster),Covaxin,Paid,2,4,4,3,2,4,1,5,3,5,2,4,3,2,5,3,2,2,4,5,3,3
+Male,30-39,Post Graduate,Employed full-time,3 doses (including booster),Covishield,Free,2,1,4,4,2,3,1,1,1,4,2,3,1,5,3,3,3,1,2,3,3,3
+Male,40-49,No Formal Education,Employed full-time,3 doses (including booster),Covishield,Paid,1,1,5,5,2,4,3,4,2,1,5,1,5,3,3,2,1,3,4,5,2,4
+Male,30-39,Under Graduate,Employed full-time,3 doses (including booster),Covishield,Free,1,5,1,1,5,2,2,2,2,4,1,1,5,2,1,2,2,1,3,2,5,3
+Male,30-39,No Formal Education,Housewives,3 doses (including booster),Covaxin,Free,5,4,3,2,1,4,3,5,3,3,5,5,4,2,4,5,2,5,1,1,5,1
+Male,50-59,Under Graduate,Unemployed,1 dose,Covishield,Paid,4,1,1,5,2,3,3,1,2,5,5,5,1,1,5,4,3,2,5,1,1,4
+Male,Above 60 years,High School,Unemployed,1 dose,Covaxin,Free,4,4,4,3,3,2,5,1,1,4,5,2,2,3,5,2,4,3,3,3,5,1
+Male,50-59,Other,Unemployed,1 dose,Covishield,Paid,2,3,5,2,5,1,5,4,3,3,2,1,3,2,1,5,5,5,2,4,3,4
+Male,Above 60 years,High School,Housewives,3 doses (including booster),Covishield,Free,4,2,4,5,3,2,3,2,3,4,3,5,1,3,1,5,4,1,4,5,3,2
+Male,40-49,Under Graduate,Employed full-time,1 dose,Covishield,Free,3,4,5,4,3,3,1,4,1,1,4,2,3,3,3,4,5,5,3,1,2,3
+Male,30-39,High School,Retired,3 doses (including booster),Covishield,Free,2,1,5,3,1,2,4,1,3,5,1,5,2,3,1,2,5,3,2,1,4,2
+Male,30-39,Other,Self-employed,2 doses,Covaxin,Free,1,2,4,4,1,1,1,2,3,4,3,3,1,5,1,4,2,3,4,4,4,2
+Male,30-39,Post Graduate,Retired,3 doses (including booster),Covishield,Paid,1,1,2,4,3,2,2,2,4,3,2,5,3,3,2,1,2,4,1,4,5,2
+Male,Above 60 years,Post Graduate,Unemployed,1 dose,Covishield,Free,1,5,5,4,2,5,1,4,5,1,1,3,5,2,1,2,2,4,2,2,5,1
+Male,18-29,Under Graduate,Self-employed,3 doses (including booster),Covaxin,Free,1,4,1,1,4,1,1,3,4,1,2,3,5,3,4,1,1,3,5,5,3,4
+Male,30-39,Under Graduate,Unemployed,1 dose,Covaxin,Free,3,5,3,5,4,1,4,2,2,1,3,5,1,2,4,1,2,5,2,5,5,4
+Male,Above 60 years,High School,Employed full-time,3 doses (including booster),Covaxin,Paid,2,5,3,5,3,2,3,1,5,3,5,3,5,1,3,3,4,4,2,5,5,2
+Male,50-59,Under Graduate,Unemployed,3 doses (including booster),Covishield,Paid,3,1,5,4,4,1,4,5,1,5,1,5,2,5,1,4,1,3,4,4,1,4
+Male,Above 60 years,No Formal Education,Housewives,1 dose,Covaxin,Paid,2,1,2,1,2,3,1,5,1,2,4,1,4,1,4,4,2,5,3,5,5,1
+Male,18-29,Other,Retired,3 doses (including booster),Covaxin,Free,1,2,2,2,4,4,2,3,5,2,2,4,5,3,3,3,4,2,4,5,1,5
+Male,18-29,Under Graduate,Self-employed,1 dose,Covishield,Paid,1,3,3,2,4,3,2,2,2,5,1,5,3,1,2,3,2,4,3,4,1,5
+Male,18-29,Post Graduate,Employed full-time,1 dose,Covaxin,Free,4,3,4,1,4,4,3,3,4,4,4,3,3,1,3,4,2,5,2,1,5,5
+Male,40-49,Other,Retired,3 doses (including booster),Covaxin,Free,2,1,1,5,1,4,3,1,3,3,2,5,1,3,4,5,4,2,2,5,4,2
+Male,18-29,No Formal Education,Unemployed,2 doses,Covishield,Free,4,2,2,2,4,2,5,5,5,4,4,1,1,3,5,5,1,5,5,2,4,5
+Male,40-49,High School,Unemployed,3 doses (including booster),Covaxin,Paid,1,3,2,3,3,5,2,4,1,4,1,3,1,4,1,4,1,4,4,4,4,4
+Male,18-29,Other,Self-employed,3 doses (including booster),Covishield,Paid,5,5,4,3,3,5,5,1,3,5,5,3,2,4,4,1,3,4,3,3,2,2
+Male,18-29,Under Graduate,Unemployed,1 dose,Covishield,Free,1,2,1,4,5,3,4,1,2,2,4,5,1,3,2,3,5,5,3,4,1,3
+Male,Above 60 years,Other,Retired,3 doses (including booster),Covishield,Free,2,4,4,1,1,2,3,5,3,3,3,2,1,3,2,4,1,4,5,2,4,2
+Male,30-39,High School,Housewives,1 dose,Covaxin,Free,3,4,2,5,3,2,5,5,5,1,5,4,4,5,5,2,5,1,2,3,3,1
+Male,30-39,High School,Unemployed,1 dose,Covaxin,Free,4,2,1,1,5,3,4,1,5,2,4,3,4,3,3,1,2,5,3,4,1,2
+Male,50-59,Post Graduate,Self-employed,1 dose,Covaxin,Free,5,3,1,5,1,2,4,4,4,4,4,3,4,3,1,3,2,3,4,1,3,3
+Male,18-29,Under Graduate,Housewives,1 dose,Covishield,Free,2,1,4,2,3,3,5,3,2,4,1,3,4,2,2,4,5,4,2,2,4,2
+Male,30-39,Under Graduate,Housewives,2 doses,Covaxin,Free,4,1,1,2,3,5,5,4,4,4,5,1,3,2,5,3,1,1,5,5,2,3
+Male,Above 60 years,High School,Employed full-time,3 doses (including booster),Covishield,Paid,3,1,5,4,2,3,2,2,2,4,3,3,4,2,1,4,2,5,4,1,3,3
+Male,18-29,No Formal Education,Unemployed,2 doses,Covaxin,Free,3,3,5,5,5,2,3,1,5,3,5,5,3,5,2,3,2,3,4,5,3,3
+Male,Above 60 years,Other,Unemployed,2 doses,Covishield,Paid,2,2,4,1,1,1,1,5,1,2,1,4,3,2,4,3,5,3,5,2,4,4
+Male,18-29,No Formal Education,Housewives,3 doses (including booster),Covishield,Free,3,3,4,1,1,4,2,1,5,1,2,4,4,3,2,1,3,4,3,4,1,4
+Male,40-49,High School,Self-employed,1 dose,Covishield,Free,4,5,1,3,2,1,2,4,1,2,5,4,4,3,2,3,2,1,5,5,4,5
+Male,50-59,High School,Housewives,1 dose,Covaxin,Paid,5,1,3,4,2,4,5,5,3,1,4,1,5,3,3,2,4,3,3,2,5,1
+Male,30-39,Under Graduate,Self-employed,1 dose,Covaxin,Free,4,3,4,4,2,4,3,4,1,3,1,3,4,5,2,1,5,5,3,1,5,5
+Male,50-59,Other,Retired,2 doses,Covishield,Free,1,3,1,4,4,1,5,5,2,3,2,5,5,4,1,3,3,5,5,2,2,1
+Male,Above 60 years,Under Graduate,Retired,3 doses (including booster),Covishield,Free,4,4,2,4,4,2,1,5,3,3,2,2,5,3,1,4,1,5,2,4,4,3
+Male,40-49,Under Graduate,Employed full-time,3 doses (including booster),Covishield,Free,3,2,3,2,5,5,1,3,5,2,5,2,3,4,1,5,3,1,1,5,1,3
+Male,Above 60 years,No Formal Education,Retired,3 doses (including booster),Covishield,Free,1,2,5,3,3,4,2,1,1,4,4,4,1,1,2,1,5,4,5,5,3,5
+Male,50-59,No Formal Education,Employed full-time,3 doses (including booster),Covishield,Paid,5,3,3,2,4,2,3,1,4,1,2,4,4,3,1,1,4,1,4,5,4,5
+Male,Above 60 years,Under Graduate,Unemployed,1 dose,Covishield,Paid,3,1,4,5,4,2,1,5,3,1,3,4,2,4,1,3,5,3,2,3,5,1
+Male,Above 60 years,No Formal Education,Employed full-time,1 dose,Covaxin,Paid,5,4,1,4,5,3,1,3,1,1,2,2,4,2,2,1,1,3,2,3,3,1
+Male,18-29,Post Graduate,Unemployed,3 doses (including booster),Covaxin,Free,2,3,4,3,2,1,4,1,3,3,5,1,2,1,4,4,5,5,2,4,5,4
+Male,30-39,Post Graduate,Housewives,3 doses (including booster),Covaxin,Free,4,4,5,3,1,4,4,3,5,1,3,1,2,3,3,1,3,4,2,2,3,3
+Male,Above 60 years,Under Graduate,Retired,1 dose,Covishield,Free,1,2,4,3,4,2,3,3,4,1,3,5,1,5,2,5,1,4,5,2,3,4
+Male,40-49,High School,Housewives,1 dose,Covaxin,Free,3,5,4,4,3,1,4,4,3,4,5,5,2,4,3,5,1,4,3,1,1,1
+Male,30-39,Post Graduate,Unemployed,1 dose,Covishield,Free,1,4,1,2,1,4,2,4,2,4,5,2,2,1,2,1,3,3,2,3,1,5
+Male,18-29,Under Graduate,Unemployed,1 dose,Covishield,Free,2,5,3,2,1,4,2,5,5,1,5,1,1,4,1,4,5,3,2,2,4,3
+Male,Above 60 years,No Formal Education,Self-employed,1 dose,Covishield,Free,4,1,4,2,1,3,2,1,3,2,3,2,1,5,4,5,5,2,5,4,5,3
+Male,30-39,High School,Unemployed,2 doses,Covishield,Free,5,5,5,5,3,2,4,4,5,3,2,2,3,1,1,1,2,4,3,1,5,1
+Male,30-39,Under Graduate,Retired,3 doses (including booster),Covishield,Paid,4,4,3,4,2,1,2,2,3,4,4,1,5,3,5,4,5,3,3,5,4,2
+Male,30-39,Other,Retired,1 dose,Covaxin,Paid,1,4,4,2,1,4,1,2,5,4,1,4,3,2,3,2,1,4,5,3,1,5
+Male,18-29,No Formal Education,Employed full-time,1 dose,Covaxin,Free,4,2,1,4,5,5,3,3,5,5,1,4,4,4,3,2,1,4,5,1,4,2
+Male,30-39,Under Graduate,Unemployed,1 dose,Covaxin,Free,1,5,3,4,3,2,1,1,2,5,5,3,3,5,2,3,1,3,4,4,4,5
+Male,18-29,Other,Employed full-time,2 doses,Covaxin,Paid,3,1,3,2,4,2,1,5,5,3,4,4,3,4,2,2,5,2,5,5,3,1
+Male,Above 60 years,High School,Unemployed,1 dose,Covaxin,Paid,4,2,5,4,2,1,5,4,2,5,2,4,1,3,4,4,3,5,1,1,4,2
+Male,40-49,Post Graduate,Retired,1 dose,Covishield,Paid,3,3,2,5,5,4,4,4,2,2,4,4,4,2,4,4,4,2,1,5,5,4
+Male,Above 60 years,No Formal Education,Retired,1 dose,Covaxin,Paid,4,4,4,5,2,4,5,3,5,1,1,2,3,4,5,1,1,3,5,3,2,4
+Male,40-49,Under Graduate,Employed full-time,1 dose,Covishield,Paid,3,2,1,5,2,3,4,5,2,2,1,4,1,1,2,1,3,5,4,3,5,2
+Male,40-49,Under Graduate,Unemployed,1 dose,Covishield,Paid,1,3,4,3,3,2,4,1,5,2,3,4,4,3,3,2,4,5,2,3,2,1
+Male,Above 60 years,High School,Employed full-time,1 dose,Covishield,Free,2,4,5,1,2,2,5,3,5,3,4,1,2,4,5,2,1,4,5,4,2,4
