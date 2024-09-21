@@ -1,0 +1,1823 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20242.24.0711.1636                               -->
+<workbook original-version='18.1' source-build='2024.2.1 (20242.24.0711.1636)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AccessibleZoneTabOrder.true...AccessibleZoneTabOrder />
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <AutoCreateAndUpdateDSDPhoneLayouts />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelExtractV2.true...ObjectModelExtractV2 />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SetMembershipControl />
+    <SheetIdentifierTracking />
+    <_.fcp.VConnDownstreamExtractsWithWarnings.true...VConnDownstreamExtractsWithWarnings />
+    <WindowsPersistSimpleIdentifiers />
+    <ZoneBackgroundTransparency />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='Staging Survey (A project report on corona vaccination side effects)' inline='true' name='federated.1a3povg1bde1xe14c4rp20i7xwng' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='A project report on corona vaccination side effects' name='excel-direct.00phunu1yfwarw16uyd7a0ru72e2'>
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/irvin/OneDrive/Desktop/ARAL SERIES/DATA ANALYTICS/DATASET TRAINING/3. A project report on corona vaccination side effects/A project report on corona vaccination side effects.xlsx' interpretationMode='0' password='' server='' validate='no' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='excel-direct.00phunu1yfwarw16uyd7a0ru72e2' name='Staging Survey' table='[&apos;Staging Survey$&apos;]' type='table'>
+          <columns gridOrigin='A1:AC221:no:A1:AC221:0' header='yes' outcome='6'>
+            <column datatype='string' name='Gender' ordinal='0' />
+            <column datatype='string' name='Age' ordinal='1' />
+            <column datatype='string' name='Education' ordinal='2' />
+            <column datatype='string' name='Occupation' ordinal='3' />
+            <column datatype='string' name='Doses Of The Covid-19 Vaccine' ordinal='4' />
+            <column datatype='string' name='Which Covid-19 Vaccine' ordinal='5' />
+            <column datatype='string' name='Is The Vaccine Paid Or Free' ordinal='6' />
+            <column datatype='integer' name='Feeling Lazy' ordinal='7' />
+            <column datatype='integer' name='Lost Fear About Covid-19' ordinal='8' />
+            <column datatype='integer' name='Feeling Stress &amp; Anxiety' ordinal='9' />
+            <column datatype='integer' name='Hair Fall' ordinal='10' />
+            <column datatype='integer' name='Decreasing Visualization' ordinal='11' />
+            <column datatype='integer' name='Fear Of Heart Attacks' ordinal='12' />
+            <column datatype='integer' name='Overweight' ordinal='13' />
+            <column datatype='integer' name='Body Pains' ordinal='14' />
+            <column datatype='integer' name='Feeling Increase In Immunity' ordinal='15' />
+            <column datatype='integer' name='Confident About The Covid-19' ordinal='16' />
+            <column datatype='integer' name='Sleepless' ordinal='17' />
+            <column datatype='integer' name='Low &amp; High Bp' ordinal='18' />
+            <column datatype='integer' name='Chills And Diarrhea' ordinal='19' />
+            <column datatype='integer' name='Prevented Our Future Diseases' ordinal='20' />
+            <column datatype='integer' name='Get Back To Our Normal Life' ordinal='21' />
+            <column datatype='integer' name='Feeling Hungry' ordinal='22' />
+            <column datatype='integer' name='Decrease Mortality Rate' ordinal='23' />
+            <column datatype='integer' name='Effects On Reproductive Health' ordinal='24' />
+            <column datatype='integer' name='Resilience' ordinal='25' />
+            <column datatype='integer' name='Feel I Am A Part In Covid 19 Warrior' ordinal='26' />
+            <column datatype='integer' name='Social Responsibility' ordinal='27' />
+            <column datatype='integer' name='Mandatory In Organization' ordinal='28' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='excel-direct.00phunu1yfwarw16uyd7a0ru72e2' name='Staging Survey' table='[&apos;Staging Survey$&apos;]' type='table'>
+          <columns gridOrigin='A1:AC221:no:A1:AC221:0' header='yes' outcome='6'>
+            <column datatype='string' name='Gender' ordinal='0' />
+            <column datatype='string' name='Age' ordinal='1' />
+            <column datatype='string' name='Education' ordinal='2' />
+            <column datatype='string' name='Occupation' ordinal='3' />
+            <column datatype='string' name='Doses Of The Covid-19 Vaccine' ordinal='4' />
+            <column datatype='string' name='Which Covid-19 Vaccine' ordinal='5' />
+            <column datatype='string' name='Is The Vaccine Paid Or Free' ordinal='6' />
+            <column datatype='integer' name='Feeling Lazy' ordinal='7' />
+            <column datatype='integer' name='Lost Fear About Covid-19' ordinal='8' />
+            <column datatype='integer' name='Feeling Stress &amp; Anxiety' ordinal='9' />
+            <column datatype='integer' name='Hair Fall' ordinal='10' />
+            <column datatype='integer' name='Decreasing Visualization' ordinal='11' />
+            <column datatype='integer' name='Fear Of Heart Attacks' ordinal='12' />
+            <column datatype='integer' name='Overweight' ordinal='13' />
+            <column datatype='integer' name='Body Pains' ordinal='14' />
+            <column datatype='integer' name='Feeling Increase In Immunity' ordinal='15' />
+            <column datatype='integer' name='Confident About The Covid-19' ordinal='16' />
+            <column datatype='integer' name='Sleepless' ordinal='17' />
+            <column datatype='integer' name='Low &amp; High Bp' ordinal='18' />
+            <column datatype='integer' name='Chills And Diarrhea' ordinal='19' />
+            <column datatype='integer' name='Prevented Our Future Diseases' ordinal='20' />
+            <column datatype='integer' name='Get Back To Our Normal Life' ordinal='21' />
+            <column datatype='integer' name='Feeling Hungry' ordinal='22' />
+            <column datatype='integer' name='Decrease Mortality Rate' ordinal='23' />
+            <column datatype='integer' name='Effects On Reproductive Health' ordinal='24' />
+            <column datatype='integer' name='Resilience' ordinal='25' />
+            <column datatype='integer' name='Feel I Am A Part In Covid 19 Warrior' ordinal='26' />
+            <column datatype='integer' name='Social Responsibility' ordinal='27' />
+            <column datatype='integer' name='Mandatory In Organization' ordinal='28' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:AC221:no:A1:AC221:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>6</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Gender</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Gender]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Gender</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RPH_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Age</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Age]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Age</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RPH_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Education</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Education]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Education</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RPH_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Occupation</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Occupation]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Occupation</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RPH_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Doses Of The Covid-19 Vaccine</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Doses Of The Covid-19 Vaccine]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Doses Of The Covid-19 Vaccine</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RPH_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Which Covid-19 Vaccine</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Which Covid-19 Vaccine]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Which Covid-19 Vaccine</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RPH_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Is The Vaccine Paid Or Free</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Is The Vaccine Paid Or Free]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Is The Vaccine Paid Or Free</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RPH_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Feeling Lazy</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Feeling Lazy]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Feeling Lazy</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Lost Fear About Covid-19</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Lost Fear About Covid-19]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Lost Fear About Covid-19</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Feeling Stress &amp; Anxiety</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Feeling Stress &amp; Anxiety]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Feeling Stress &amp; Anxiety</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Hair Fall</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Hair Fall]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Hair Fall</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Decreasing Visualization</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Decreasing Visualization]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Decreasing Visualization</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Fear Of Heart Attacks</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Fear Of Heart Attacks]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Fear Of Heart Attacks</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Overweight</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Overweight]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Overweight</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Body Pains</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Body Pains]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Body Pains</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Feeling Increase In Immunity</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Feeling Increase In Immunity]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Feeling Increase In Immunity</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Confident About The Covid-19</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Confident About The Covid-19]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Confident About The Covid-19</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Sleepless</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Sleepless]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Sleepless</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Low &amp; High Bp</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Low &amp; High Bp]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Low &amp; High Bp</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Chills And Diarrhea</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Chills And Diarrhea]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Chills And Diarrhea</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Prevented Our Future Diseases</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Prevented Our Future Diseases]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Prevented Our Future Diseases</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Get Back To Our Normal Life</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Get Back To Our Normal Life]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Get Back To Our Normal Life</remote-alias>
+            <ordinal>21</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Feeling Hungry</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Feeling Hungry]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Feeling Hungry</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Decrease Mortality Rate</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Decrease Mortality Rate]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Decrease Mortality Rate</remote-alias>
+            <ordinal>23</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Effects On Reproductive Health</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Effects On Reproductive Health]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Effects On Reproductive Health</remote-alias>
+            <ordinal>24</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Resilience</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Resilience]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Resilience</remote-alias>
+            <ordinal>25</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Feel I Am A Part In Covid 19 Warrior</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Feel I Am A Part In Covid 19 Warrior]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Feel I Am A Part In Covid 19 Warrior</remote-alias>
+            <ordinal>26</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Social Responsibility</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Social Responsibility]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Social Responsibility</remote-alias>
+            <ordinal>27</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Mandatory In Organization</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Mandatory In Organization]</local-name>
+            <parent-name>[Staging Survey]</parent-name>
+            <remote-alias>Mandatory In Organization</remote-alias>
+            <ordinal>28</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[Age]' role='dimension' type='nominal' />
+      <column datatype='string' name='[Gender]' role='dimension' type='nominal' />
+      <_.fcp.ObjectModelTableType.true...column caption='Staging Survey' datatype='table' name='[__tableau_internal_object_id__].[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]' role='measure' type='quantitative' />
+      <column-instance column='[Age]' derivation='None' name='[none:Age:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Gender]' derivation='None' name='[none:Gender:nk]' pivot='key' type='nominal' />
+      <group caption='Action (Age,Gender)' hidden='true' name='[Action (Age,Gender)]' name-style='unqualified' user:auto-column='sheet_link'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[Age]' />
+          <groupfilter function='level-members' level='[Gender]' />
+        </groupfilter>
+      </group>
+      <extract _.fcp.ObjectModelExtractV2.true...object-id='' _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' units='records'>
+        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='C:/Users/irvin/AppData/Local/Temp/TableauTemp/#TableauTemp_1p8v2k319rn4bh14amawe17glw5w.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='09/21/2024 11:53:35 AM' username='tableau_internal_user'>
+          <_.fcp.ObjectModelEncapsulateLegacy.false...relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <_.fcp.ObjectModelEncapsulateLegacy.true...relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>Gender</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Gender]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Gender</remote-alias>
+              <ordinal>0</ordinal>
+              <family>Staging Survey</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='1' name='LEN_RPH_S2' />
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Age</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Age]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Age</remote-alias>
+              <ordinal>1</ordinal>
+              <family>Staging Survey</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='1' name='LEN_RPH_S2' />
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Education</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Education]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Education</remote-alias>
+              <ordinal>2</ordinal>
+              <family>Staging Survey</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='1' name='LEN_RPH_S2' />
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Occupation</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Occupation]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Occupation</remote-alias>
+              <ordinal>3</ordinal>
+              <family>Staging Survey</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='1' name='LEN_RPH_S2' />
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Doses Of The Covid-19 Vaccine</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Doses Of The Covid-19 Vaccine]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Doses Of The Covid-19 Vaccine</remote-alias>
+              <ordinal>4</ordinal>
+              <family>Staging Survey</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>3</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='1' name='LEN_RPH_S2' />
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Which Covid-19 Vaccine</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Which Covid-19 Vaccine]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Which Covid-19 Vaccine</remote-alias>
+              <ordinal>5</ordinal>
+              <family>Staging Survey</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='1' name='LEN_RPH_S2' />
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Is The Vaccine Paid Or Free</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Is The Vaccine Paid Or Free]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Is The Vaccine Paid Or Free</remote-alias>
+              <ordinal>6</ordinal>
+              <family>Staging Survey</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='1' name='LEN_RPH_S2' />
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Feeling Lazy</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Feeling Lazy]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Feeling Lazy</remote-alias>
+              <ordinal>7</ordinal>
+              <family>Staging Survey</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Lost Fear About Covid-19</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Lost Fear About Covid-19]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Lost Fear About Covid-19</remote-alias>
+              <ordinal>8</ordinal>
+              <family>Staging Survey</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Feeling Stress &amp; Anxiety</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Feeling Stress &amp; Anxiety]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Feeling Stress &amp; Anxiety</remote-alias>
+              <ordinal>9</ordinal>
+              <family>Staging Survey</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Hair Fall</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Hair Fall]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Hair Fall</remote-alias>
+              <ordinal>10</ordinal>
+              <family>Staging Survey</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Decreasing Visualization</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Decreasing Visualization]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Decreasing Visualization</remote-alias>
+              <ordinal>11</ordinal>
+              <family>Staging Survey</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Fear Of Heart Attacks</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Fear Of Heart Attacks]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Fear Of Heart Attacks</remote-alias>
+              <ordinal>12</ordinal>
+              <family>Staging Survey</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Overweight</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Overweight]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Overweight</remote-alias>
+              <ordinal>13</ordinal>
+              <family>Staging Survey</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Body Pains</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Body Pains]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Body Pains</remote-alias>
+              <ordinal>14</ordinal>
+              <family>Staging Survey</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Feeling Increase In Immunity</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Feeling Increase In Immunity]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Feeling Increase In Immunity</remote-alias>
+              <ordinal>15</ordinal>
+              <family>Staging Survey</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Confident About The Covid-19</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Confident About The Covid-19]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Confident About The Covid-19</remote-alias>
+              <ordinal>16</ordinal>
+              <family>Staging Survey</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Sleepless</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Sleepless]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Sleepless</remote-alias>
+              <ordinal>17</ordinal>
+              <family>Staging Survey</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Low &amp; High Bp</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Low &amp; High Bp]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Low &amp; High Bp</remote-alias>
+              <ordinal>18</ordinal>
+              <family>Staging Survey</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Chills And Diarrhea</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Chills And Diarrhea]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Chills And Diarrhea</remote-alias>
+              <ordinal>19</ordinal>
+              <family>Staging Survey</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Prevented Our Future Diseases</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Prevented Our Future Diseases]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Prevented Our Future Diseases</remote-alias>
+              <ordinal>20</ordinal>
+              <family>Staging Survey</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Get Back To Our Normal Life</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Get Back To Our Normal Life]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Get Back To Our Normal Life</remote-alias>
+              <ordinal>21</ordinal>
+              <family>Staging Survey</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Feeling Hungry</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Feeling Hungry]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Feeling Hungry</remote-alias>
+              <ordinal>22</ordinal>
+              <family>Staging Survey</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Decrease Mortality Rate</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Decrease Mortality Rate]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Decrease Mortality Rate</remote-alias>
+              <ordinal>23</ordinal>
+              <family>Staging Survey</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Effects On Reproductive Health</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Effects On Reproductive Health]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Effects On Reproductive Health</remote-alias>
+              <ordinal>24</ordinal>
+              <family>Staging Survey</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Resilience</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Resilience]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Resilience</remote-alias>
+              <ordinal>25</ordinal>
+              <family>Staging Survey</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Feel I Am A Part In Covid 19 Warrior</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Feel I Am A Part In Covid 19 Warrior]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Feel I Am A Part In Covid 19 Warrior</remote-alias>
+              <ordinal>26</ordinal>
+              <family>Staging Survey</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Social Responsibility</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Social Responsibility]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Social Responsibility</remote-alias>
+              <ordinal>27</ordinal>
+              <family>Staging Survey</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Mandatory In Organization</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Mandatory In Organization]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Mandatory In Organization</remote-alias>
+              <ordinal>28</ordinal>
+              <family>Staging Survey</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Staging Survey_AEB7692F0F024437BCED9404EB566CA2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Gender:nk]&#10;[none:Age:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <multibucket>
+                <bucket>&quot;Female&quot;</bucket>
+                <bucket>&quot;18-29&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#618db7'>
+              <multibucket>
+                <bucket>&quot;Female&quot;</bucket>
+                <bucket>&quot;30-39&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#75a1c7'>
+              <multibucket>
+                <bucket>&quot;Female&quot;</bucket>
+                <bucket>&quot;40-49&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#8ab6d8'>
+              <multibucket>
+                <bucket>&quot;Female&quot;</bucket>
+                <bucket>&quot;50-59&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#a0cbe8'>
+              <multibucket>
+                <bucket>&quot;Female&quot;</bucket>
+                <bucket>&quot;Above 60 years&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#f28e2b'>
+              <multibucket>
+                <bucket>&quot;Male&quot;</bucket>
+                <bucket>&quot;18-29&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#f69a41'>
+              <multibucket>
+                <bucket>&quot;Male&quot;</bucket>
+                <bucket>&quot;30-39&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#f9a655'>
+              <multibucket>
+                <bucket>&quot;Male&quot;</bucket>
+                <bucket>&quot;40-49&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#fcb269'>
+              <multibucket>
+                <bucket>&quot;Male&quot;</bucket>
+                <bucket>&quot;50-59&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#ffbe7d'>
+              <multibucket>
+                <bucket>&quot;Male&quot;</bucket>
+                <bucket>&quot;Above 60 years&quot;</bucket>
+              </multibucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:Gender:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;Female&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Male&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Philippines&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='Staging Survey' id='Staging Survey_AEB7692F0F024437BCED9404EB566CA2'>
+            <properties context=''>
+              <relation connection='excel-direct.00phunu1yfwarw16uyd7a0ru72e2' name='Staging Survey' table='[&apos;Staging Survey$&apos;]' type='table'>
+                <columns gridOrigin='A1:AC221:no:A1:AC221:0' header='yes' outcome='6'>
+                  <column datatype='string' name='Gender' ordinal='0' />
+                  <column datatype='string' name='Age' ordinal='1' />
+                  <column datatype='string' name='Education' ordinal='2' />
+                  <column datatype='string' name='Occupation' ordinal='3' />
+                  <column datatype='string' name='Doses Of The Covid-19 Vaccine' ordinal='4' />
+                  <column datatype='string' name='Which Covid-19 Vaccine' ordinal='5' />
+                  <column datatype='string' name='Is The Vaccine Paid Or Free' ordinal='6' />
+                  <column datatype='integer' name='Feeling Lazy' ordinal='7' />
+                  <column datatype='integer' name='Lost Fear About Covid-19' ordinal='8' />
+                  <column datatype='integer' name='Feeling Stress &amp; Anxiety' ordinal='9' />
+                  <column datatype='integer' name='Hair Fall' ordinal='10' />
+                  <column datatype='integer' name='Decreasing Visualization' ordinal='11' />
+                  <column datatype='integer' name='Fear Of Heart Attacks' ordinal='12' />
+                  <column datatype='integer' name='Overweight' ordinal='13' />
+                  <column datatype='integer' name='Body Pains' ordinal='14' />
+                  <column datatype='integer' name='Feeling Increase In Immunity' ordinal='15' />
+                  <column datatype='integer' name='Confident About The Covid-19' ordinal='16' />
+                  <column datatype='integer' name='Sleepless' ordinal='17' />
+                  <column datatype='integer' name='Low &amp; High Bp' ordinal='18' />
+                  <column datatype='integer' name='Chills And Diarrhea' ordinal='19' />
+                  <column datatype='integer' name='Prevented Our Future Diseases' ordinal='20' />
+                  <column datatype='integer' name='Get Back To Our Normal Life' ordinal='21' />
+                  <column datatype='integer' name='Feeling Hungry' ordinal='22' />
+                  <column datatype='integer' name='Decrease Mortality Rate' ordinal='23' />
+                  <column datatype='integer' name='Effects On Reproductive Health' ordinal='24' />
+                  <column datatype='integer' name='Resilience' ordinal='25' />
+                  <column datatype='integer' name='Feel I Am A Part In Covid 19 Warrior' ordinal='26' />
+                  <column datatype='integer' name='Social Responsibility' ordinal='27' />
+                  <column datatype='integer' name='Mandatory In Organization' ordinal='28' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <actions>
+    <action caption='Filter 1 (generated)' name='[Action1_3303A88ADC964CE09FCA29F740B2004D]'>
+      <activation auto-clear='true' type='on-select' />
+      <source dashboard='Dashboard 1' type='sheet' worksheet='Sheet  2' />
+      <command command='tsc:tsl-filter'>
+        <param name='special-fields' value='all' />
+        <param name='target' value='Dashboard 1' />
+      </command>
+    </action>
+    <action caption='Filter 2 (generated)' name='[Action2_08794BC18B8D4B6D9FFECF206D93DAEE]'>
+      <activation auto-clear='true' type='on-select' />
+      <source dashboard='Dashboard 1' type='sheet' worksheet='Sheet 1' />
+      <command command='tsc:tsl-filter'>
+        <param name='special-fields' value='all' />
+        <param name='target' value='Dashboard 1' />
+      </command>
+    </action>
+  </actions>
+  <worksheets>
+    <worksheet name='Sheet  2'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Side effects&#10;</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Staging Survey (A project report on corona vaccination side effects)' name='federated.1a3povg1bde1xe14c4rp20i7xwng' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1a3povg1bde1xe14c4rp20i7xwng'>
+            <column datatype='string' name='[Age]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Decrease Mortality Rate]' role='measure' type='quantitative' />
+            <column datatype='integer' name='[Decreasing Visualization]' role='measure' type='quantitative' />
+            <column datatype='integer' name='[Effects On Reproductive Health]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Gender]' role='dimension' type='nominal' />
+            <column-instance column='[Decrease Mortality Rate]' derivation='Avg' name='[avg:Decrease Mortality Rate:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Decreasing Visualization]' derivation='Avg' name='[avg:Decreasing Visualization:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Effects On Reproductive Health]' derivation='Avg' name='[avg:Effects On Reproductive Health:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Age]' derivation='None' name='[none:Age:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Gender]' derivation='None' name='[none:Gender:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Age:nk]' filter-group='3'>
+            <groupfilter function='level-members' level='[none:Age:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Age:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane id='7' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Gender:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+                <format attr='size' value='1.6811602115631104' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='8' selection-relaxation-option='selection-relaxation-allow' x-axis-name='[federated.1a3povg1bde1xe14c4rp20i7xwng].[avg:Decrease Mortality Rate:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Gender:nk]' />
+              <text column='[federated.1a3povg1bde1xe14c4rp20i7xwng].[avg:Decrease Mortality Rate:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='size' value='1.6811602115631104' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='9' selection-relaxation-option='selection-relaxation-allow' x-axis-name='[federated.1a3povg1bde1xe14c4rp20i7xwng].[avg:Decreasing Visualization:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Gender:nk]' />
+              <text column='[federated.1a3povg1bde1xe14c4rp20i7xwng].[avg:Decreasing Visualization:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+                <format attr='size' value='1.6811602115631104' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='10' selection-relaxation-option='selection-relaxation-allow' x-axis-name='[federated.1a3povg1bde1xe14c4rp20i7xwng].[avg:Effects On Reproductive Health:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Gender:nk]' />
+              <text column='[federated.1a3povg1bde1xe14c4rp20i7xwng].[avg:Effects On Reproductive Health:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='size' value='1.6811602115631104' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Gender:nk]</rows>
+        <cols>([federated.1a3povg1bde1xe14c4rp20i7xwng].[avg:Decrease Mortality Rate:qk] + ([federated.1a3povg1bde1xe14c4rp20i7xwng].[avg:Decreasing Visualization:qk] + [federated.1a3povg1bde1xe14c4rp20i7xwng].[avg:Effects On Reproductive Health:qk]))</cols>
+      </table>
+      <simple-id uuid='{F876DBC5-EDB4-4CBA-B93E-544C6BEE567B}' />
+    </worksheet>
+    <worksheet name='Sheet 1'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Side effects&#10;</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Staging Survey (A project report on corona vaccination side effects)' name='federated.1a3povg1bde1xe14c4rp20i7xwng' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1a3povg1bde1xe14c4rp20i7xwng'>
+            <column datatype='string' name='[Age]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Body Pains]' role='measure' type='quantitative' />
+            <column datatype='integer' name='[Chills And Diarrhea]' role='measure' type='quantitative' />
+            <column datatype='integer' name='[Confident About The Covid-19]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Doses Of The Covid-19 Vaccine]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Education]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Gender]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Is The Vaccine Paid Or Free]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Occupation]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Which Covid-19 Vaccine]' role='dimension' type='nominal' />
+            <column-instance column='[Body Pains]' derivation='Avg' name='[avg:Body Pains:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Chills And Diarrhea]' derivation='Avg' name='[avg:Chills And Diarrhea:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Confident About The Covid-19]' derivation='Avg' name='[avg:Confident About The Covid-19:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Age]' derivation='None' name='[none:Age:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Doses Of The Covid-19 Vaccine]' derivation='None' name='[none:Doses Of The Covid-19 Vaccine:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Education]' derivation='None' name='[none:Education:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Gender]' derivation='None' name='[none:Gender:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Is The Vaccine Paid Or Free]' derivation='None' name='[none:Is The Vaccine Paid Or Free:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Occupation]' derivation='None' name='[none:Occupation:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Which Covid-19 Vaccine]' derivation='None' name='[none:Which Covid-19 Vaccine:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Age:nk]' filter-group='3'>
+            <groupfilter function='level-members' level='[none:Age:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Doses Of The Covid-19 Vaccine:nk]'>
+            <groupfilter function='except' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:Doses Of The Covid-19 Vaccine:nk]' />
+              <groupfilter function='member' level='[none:Doses Of The Covid-19 Vaccine:nk]' member='%null%' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Education:nk]'>
+            <groupfilter function='except' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:Education:nk]' />
+              <groupfilter function='member' level='[none:Education:nk]' member='%null%' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Gender:nk]'>
+            <groupfilter function='except' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:Gender:nk]' />
+              <groupfilter function='member' level='[none:Gender:nk]' member='%null%' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Is The Vaccine Paid Or Free:nk]'>
+            <groupfilter function='except' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:Is The Vaccine Paid Or Free:nk]' />
+              <groupfilter function='member' level='[none:Is The Vaccine Paid Or Free:nk]' member='%null%' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Occupation:nk]'>
+            <groupfilter function='except' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:Occupation:nk]' />
+              <groupfilter function='member' level='[none:Occupation:nk]' member='%null%' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Which Covid-19 Vaccine:nk]'>
+            <groupfilter function='except' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:Which Covid-19 Vaccine:nk]' />
+              <groupfilter function='member' level='[none:Which Covid-19 Vaccine:nk]' member='%null%' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Age:nk]</column>
+            <column>[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Doses Of The Covid-19 Vaccine:nk]</column>
+            <column>[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Education:nk]</column>
+            <column>[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Gender:nk]</column>
+            <column>[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Is The Vaccine Paid Or Free:nk]</column>
+            <column>[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Which Covid-19 Vaccine:nk]</column>
+            <column>[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Occupation:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='mark'>
+            <encoding attr='size-bar' field='[federated.1a3povg1bde1xe14c4rp20i7xwng].[avg:Body Pains:qk]' field-type='quantitative' max-size='1' min-size='0.005' type='centersize' />
+          </style-rule>
+          <style-rule element='quick-filter'>
+            <format attr='title' field='[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Age:nk]' value='Search by Age'>
+              <formatted-text>
+                <run fontalignment='1'>Search by Age</run>
+              </formatted-text>
+            </format>
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='4' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Gender:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+                <format attr='size' value='1.6811602115631104' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='5' selection-relaxation-option='selection-relaxation-allow' x-axis-name='[federated.1a3povg1bde1xe14c4rp20i7xwng].[avg:Body Pains:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Gender:nk]' />
+              <text column='[federated.1a3povg1bde1xe14c4rp20i7xwng].[avg:Body Pains:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+                <format attr='size' value='1.6811602115631104' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='6' selection-relaxation-option='selection-relaxation-allow' x-axis-name='[federated.1a3povg1bde1xe14c4rp20i7xwng].[avg:Chills And Diarrhea:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Gender:nk]' />
+              <text column='[federated.1a3povg1bde1xe14c4rp20i7xwng].[avg:Chills And Diarrhea:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+                <format attr='size' value='1.6811602115631104' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='7' selection-relaxation-option='selection-relaxation-allow' x-axis-name='[federated.1a3povg1bde1xe14c4rp20i7xwng].[avg:Confident About The Covid-19:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Gender:nk]' />
+              <text column='[federated.1a3povg1bde1xe14c4rp20i7xwng].[avg:Confident About The Covid-19:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+                <format attr='size' value='1.6811602115631104' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Gender:nk]</rows>
+        <cols>([federated.1a3povg1bde1xe14c4rp20i7xwng].[avg:Body Pains:qk] + ([federated.1a3povg1bde1xe14c4rp20i7xwng].[avg:Chills And Diarrhea:qk] + [federated.1a3povg1bde1xe14c4rp20i7xwng].[avg:Confident About The Covid-19:qk]))</cols>
+      </table>
+      <simple-id uuid='{2DD17A0D-012B-4012-824C-1FC850444B18}' />
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard _.fcp.AccessibleZoneTabOrder.true...enable-sort-zone-taborder='true' name='Dashboard 1'>
+      <style />
+      <size sizing-mode='automatic' />
+      <datasources>
+        <datasource caption='Staging Survey (A project report on corona vaccination side effects)' name='federated.1a3povg1bde1xe14c4rp20i7xwng' />
+      </datasources>
+      <datasource-dependencies datasource='federated.1a3povg1bde1xe14c4rp20i7xwng'>
+        <column datatype='string' name='[Age]' role='dimension' type='nominal' />
+        <column-instance column='[Age]' derivation='None' name='[none:Age:nk]' pivot='key' type='nominal' />
+      </datasource-dependencies>
+      <zones>
+        <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='98002' id='15' param='horz' type-v2='layout-flow' w='89428' x='483' y='999'>
+            <zone h='98002' id='7' param='horz' type-v2='layout-flow' w='89428' x='483' y='999'>
+              <zone h='98002' id='5' type-v2='layout-basic' w='89428' x='483' y='999'>
+                <zone h='98002' id='3' name='Sheet 1' w='44714' x='483' y='999'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                  </zone-style>
+                </zone>
+                <zone h='98002' id='13' name='Sheet  2' w='44714' x='45197' y='999'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                  </zone-style>
+                </zone>
+              </zone>
+            </zone>
+          </zone>
+          <zone h='98002' id='17' type-v2='layout-flow' w='9606' x='89911' y='999'>
+            <zone h='7616' id='16' mode='checkdropdown' name='Sheet 1' param='[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Age:nk]' type-v2='filter' values='database' w='9606' x='89911' y='999'>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='4' />
+              </zone-style>
+            </zone>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='700' minheight='700' sizing-mode='vscroll' />
+          <zones>
+            <zone h='100000' id='19' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98002' id='18' param='vert' type-v2='layout-flow' w='99034' x='483' y='999'>
+                <zone h='7616' id='16' mode='checkdropdown' name='Sheet 1' param='[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Age:nk]' type-v2='filter' values='database' w='9606' x='89911' y='999'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='98002' id='3' is-fixed='true' name='Sheet 1' w='44714' x='483' y='999'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='98002' id='13' is-fixed='true' name='Sheet  2' w='44714' x='45197' y='999'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{EA38C267-94A9-48B8-81F2-91DD07C8C239}' />
+    </dashboard>
+  </dashboards>
+  <windows saved-dpi-scale-factor='1.25' source-height='37'>
+    <window class='worksheet' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='5' param='[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Gender:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1a3povg1bde1xe14c4rp20i7xwng].[:Measure Names]</field>
+            <field>[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Doses Of The Covid-19 Vaccine:nk]</field>
+            <field>[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Education:nk]</field>
+            <field>[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Gender:nk]</field>
+            <field>[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Is The Vaccine Paid Or Free:nk]</field>
+            <field>[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Occupation:nk]</field>
+            <field>[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Which Covid-19 Vaccine:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{3811EDC1-027A-406F-998B-0756289783F0}' />
+    </window>
+    <window class='worksheet' name='Sheet  2'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='8' param='[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Gender:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1a3povg1bde1xe14c4rp20i7xwng].[:Measure Names]</field>
+            <field>[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Doses Of The Covid-19 Vaccine:nk]</field>
+            <field>[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Education:nk]</field>
+            <field>[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Gender:nk]</field>
+            <field>[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Occupation:nk]</field>
+            <field>[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Which Covid-19 Vaccine:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{EEDDDD14-D755-47AC-8DD7-52BC712A229F}' />
+    </window>
+    <window class='dashboard' maximized='true' name='Dashboard 1'>
+      <viewpoints>
+        <viewpoint name='Sheet  2'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='Sheet 1'>
+          <zoom type='entire-view' />
+          <highlight field='[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Gender:nk]&#10;[federated.1a3povg1bde1xe14c4rp20i7xwng].[none:Age:nk]'>
+            <bucket-selection />
+          </highlight>
+        </viewpoint>
+      </viewpoints>
+      <active id='16' />
+      <simple-id uuid='{B0D29CDE-1424-4955-B6BC-047844964736}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Dashboard 1' width='192'>
+      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
+      7S+A/wPybewzqsdkwwAAAABJRU5ErkJggg==
+    </thumbnail>
+    <thumbnail height='127' name='Sheet  2' width='192'>
+      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
+      AABJRU5ErkJggg==
+    </thumbnail>
+    <thumbnail height='127' name='Sheet 1' width='192'>
+      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
+      RK5CYII=
+    </thumbnail>
+  </thumbnails>
+</workbook>
